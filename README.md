@@ -1,2 +1,2 @@
 # competitive_gradient_optimization
-Competitive Gradient Optimization in the real world
+Pytorch Implementation of the Competitive Gradient Optimization following this [paper](https://arxiv.org/abs/2205.14232)
